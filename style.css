@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-color: #B0C4DE;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+p{
+  font-weight: bold;
+}
